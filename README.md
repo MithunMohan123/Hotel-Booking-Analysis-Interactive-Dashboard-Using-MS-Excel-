@@ -1,6 +1,3 @@
-# Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-
-Analyzed Data By Creating Interactive Dashboard Using MS Excel
-
 # Hotel Booking Analysis (Interactive Dashboard Creation using MS Excel)
 
 ## Project Objective
