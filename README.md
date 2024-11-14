@@ -4,7 +4,7 @@
 Analyze hotel booking data to understand booking trends, cancellations, and customer preferences to improve decision-making and optimize booking strategies.
 
 ## Dataset Used
-- 
+- <a  href=”https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/hotel_bookings.xlsx”>Hotel Booking Data</a>
 
 ## Questions (KPIs) Addressed
 1. Compare total bookings and cancellations for City Hotels and Resort Hotels.
@@ -21,6 +21,7 @@ Analyze hotel booking data to understand booking trends, cancellations, and cust
 4. Combined all visualizations into an interactive dashboard with slicers for dynamic exploration.
 
 ## Dashboard
+- <a href="https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/DashBoard%20Pic.png">Dashboard</a>
 
 ## Project Insights
 - Total bookings amount to **119,390**, with **44,224 cancellations**.
