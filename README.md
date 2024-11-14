@@ -25,11 +25,11 @@ Analyze hotel booking data to understand booking trends, cancellations, and cust
 - <a href="https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/hotel_bookings%20analysis.xlsx">Interactive-Dasboard</a>
 
 ## Project Insights
-- Total bookings  **119,390** and **44,224** cancellations.
+- Total bookings  **119,390** and total cancellations **44,224** .
 - **Resort Hotels** have higher cancellations compared to City Hotels.
 - **Couples** make the majority of bookings and cancellations, followed by **Families** and **Singles**.
 - Desired rooms have significantly more bookings compared to undesired rooms, but undesired rooms show a higher cancellation rate proportionally.
-- The highest booking and cancellation activity occurs in the months of **September and October**in year 2015,**May and October**in year 2016, **May and August**in year 2017 .
+- The highest booking and cancellation activity occurs in the months of **September and October** in the year 2015,**May and October** in the year 2016, **May and August** in the year 2017  .
 
 ## Final Conclusion
 To reduce cancellations and improve booking satisfaction:
