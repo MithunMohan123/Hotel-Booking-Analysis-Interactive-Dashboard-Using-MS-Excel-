@@ -4,7 +4,7 @@
 Analyze hotel booking data to understand booking trends, cancellations, and customer preferences to improve decision-making and optimize booking strategies.
 
 ## Dataset Used
-- <a href=”https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/hotel_bookings.xlsx”>Hotel-Booking-Data</a>
+- <a href="https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/hotel_bookings.xlsx">Hotel-Booking-Data</a>
 
 ## Questions (KPIs) Addressed
 1. Compare total bookings and cancellations for City Hotels and Resort Hotels.
@@ -25,15 +25,15 @@ Analyze hotel booking data to understand booking trends, cancellations, and cust
 - <a href="https://github.com/MithunMohan123/Hotel-Booking-Analysis-Interactive-Dashboard-Using-MS-Excel-/blob/main/hotel_bookings%20analysis.xlsx">Interactive-Dasboard</a>
 
 ## Project Insights
-- Total bookings amount to **119,390**, with **44,224 cancellations**.
+- Total bookings  **119,390** and **44,224** cancellations.
 - **Resort Hotels** have higher cancellations compared to City Hotels.
 - **Couples** make the majority of bookings and cancellations, followed by **Families** and **Singles**.
 - Desired rooms have significantly more bookings compared to undesired rooms, but undesired rooms show a higher cancellation rate proportionally.
-- The highest booking and cancellation activity occurs in the months of **May and August**.
+- The highest booking and cancellation activity occurs in the months of **September and October**in year 2015,**May and October**in year 2016, **May and August**in year 2017 .
 
 ## Final Conclusion
 To reduce cancellations and improve booking satisfaction:
 - Focus on increasing the desirability of currently "undesired" room categories.
 - Pay special attention to **Couples** as they make up the largest guest segment with cancellations.
-- Evaluate seasonal patterns (e.g., May and August) and offer promotions or incentives during these peak periods to retain bookings.
+- Evaluate seasonal patterns (e.g., May and October) and offer promotions or incentives during these peak periods to retain bookings.
 
